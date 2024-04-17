@@ -3,6 +3,7 @@
     <nav class="space-x-8 bg-green-200">
       <router-link to="/">Home</router-link>
       <router-link to="/add-voc">Vokabeln hinzufügen</router-link>
+      <router-link to="/quiz-voc">Vokabeln üben</router-link>
     </nav>
     <main class="bg-yellow-100 min-h-screen">
       <router-view></router-view>
